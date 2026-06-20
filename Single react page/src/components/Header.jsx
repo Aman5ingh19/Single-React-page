@@ -23,7 +23,7 @@ export default function Header() {
     <header className="navbar">
       <div className="navbar-brand">
         <span className="brand-emoji">🎓</span>
-        <span className="brand-name">Alex Johnson</span>
+        <span className="brand-name">Aman Singh</span>
       </div>
 
       <button
